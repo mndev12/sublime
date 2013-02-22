@@ -1,0 +1,11 @@
+{
+  "close_windows_when_empty": true,
+	"bold_folder_labels": true,
+	"highlight_line": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/matt.tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
